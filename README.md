@@ -32,7 +32,7 @@
   <a href=""><img src="" target="_blank"></a>
 </div>
 
-<div align="center">
+<div>
 
   ![Snake animation](https://github.com/ogabrielctt/ogabrielctt/blob/output/github-contribution-grid-snake.svg)
 
