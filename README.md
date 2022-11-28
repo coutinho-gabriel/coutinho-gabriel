@@ -4,7 +4,7 @@
          🔭 I'm currently looking for a vacancy.<br>
          🌱 I'm currently learning... Algorithms and Programming Logic.<br>
           👯 I'm looking to collaborate on ... mobile projects.<br>
-          🤔 I'm looking for help with... React Native or Flutter<br>
+          🤔 I'm looking for help with... Flutter<br>
     </p>
 </div>
 
