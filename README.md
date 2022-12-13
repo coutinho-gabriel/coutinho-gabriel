@@ -1,6 +1,6 @@
 <div align="center">
   <h3>🫱🏻 About me</h3>
-    <p>"I believe that after the relationship, the interface is the most important part of a tool."</p>
+    <p>"Just creating solutions!"</p>
 </div>
 
 <div align="center">
