@@ -1,14 +1,4 @@
 <div align="center">
-  <h3>👋 Hello </h3> 
-    <p>
-         🔭 I'm currently looking for a vacancy.<br>
-         🌱 I'm currently learning... Algorithms and Programming Logic.<br>
-          👯 I'm looking to collaborate on ... mobile projects.<br>
-          🤔 I'm looking for help with... Flutter<br>
-    </p>
-</div>
-
-<div align="center">
   <h3>🫱🏻 About me</h3>
     <p>"I believe that after the relationship, the interface is the most important part of a tool."</p>
 </div>
@@ -25,8 +15,8 @@
 <div align="center">
   <h3>📊 Overview</h3>
     <a href="https://github.com/ogabrielctt">
-      <p><img height="135em" src="https://github-readme-stats.vercel.app/api?username=ogabrielctt&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/></p>
-      <p><img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielctt&layout=compact&langs_count=7&theme=gruvbox"/></p>
+     <img height="135em" src="https://github-readme-stats.vercel.app/api?username=ogabrielctt&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+      <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielctt&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
 <div align="center"> 
