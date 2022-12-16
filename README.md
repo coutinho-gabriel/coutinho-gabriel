@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>🫱🏻 About me</h3>
+  <h3>👋🏻 About me</h3>
     <p>"Just creating solutions!"</p>
 </div>
 
