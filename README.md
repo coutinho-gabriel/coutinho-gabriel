@@ -14,8 +14,8 @@
 <div align="center">
   <h3>📊 Overview</h3>
     <a href="https://github.com/ogabrielctt">
-     <img height="135em" src="https://github-readme-stats.vercel.app/api?username=ogabrielctt&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-      <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielctt&layout=compact&langs_count=7&theme=gruvbox"/>
+     <img height="135em" src="https://github-readme-stats.vercel.app/api?username=ogabrielctt&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+      <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielctt&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <div align="center"> 
