@@ -1,8 +1,8 @@
 <div align="center">
   <h3><b>✌️ About me<b><h3>
-    <h5><i>- I'm a software developer with a focus on mobile.<i></h5>
-    <h5><i>- I have experience with Dart and Javascript, from personal projects; allocated on my Github. I am in constant search of knowledge, improvements and good coding practices, such as design patterns, clean architecture, clean code and tests. Currently, I am looking for new opportunities and challenges.<i></h5>
-    <h5><i>- I believe we can change the world with the power of information.<i></h5>
+    <h5><i>- Full Stack Developer<i></h5>
+    <h5><i><i></h5>
+    <h5><i></h5>
 </div>
     
 <div align="center">
