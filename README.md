@@ -1,6 +1,6 @@
 <div align="center">
   <h3><b>✌️ About me<b><h3>
-    <h5><i>- Full Stack Developer<i></h5>
+    <h5><i>- just solving problems<i></h5>
     <h5><i><i></h5>
     <h5><i></h5>
 </div>
