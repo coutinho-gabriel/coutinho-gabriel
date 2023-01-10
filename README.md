@@ -14,10 +14,3 @@
     <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
     <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
-
-<div align="center">
-  <h3>📊 Overview</h3>
-    <a href="https://github.com/coutinho-gabriel">
-     <img height="135em" src="https://github-readme-stats.vercel.app/api?username=coutinho-gabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutinho-gabriel&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
